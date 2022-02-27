@@ -5,7 +5,7 @@
 
 ## to-do
 - Show PM1.0/2.5/10 value in QAPASS display
-- Show level of Dust Level with R(Bad)/G(Normal)/B(Good) LED
+- Show level of dust with R(Bad)/G(Normal)/B(Good) LED
 
 ## misc
 Arizona Dust Source : https://www.powdertechnologyinc.com/test-dust-contaminants/test-dust-history/
